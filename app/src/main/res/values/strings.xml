@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dictionary App (Fragments)</string>
+    <string-array name="words">
+        <item>gimmal</item>
+        <item>timer</item>
+        <item>reconcilable</item>
+        <item>proxemics</item>
+        <item>panpipe</item>
+        <item>volga</item>
+        <item>transformism</item>
+    </string-array>
+    <string-array name="meanings">
+        <item>Any of various joints for transmitting motion between rotating parts, as in a timepiece.</item>
+        <item>A device for controlling machinery, appliances, or the like, in a specified way at a predetermineda device for controlling machinery, appliances, or the like, in a specified way at a predetermineda device for controlling machinery, appliances, or the like, in a specified way at a predetermineda device for controlling machinery, appliances, or the like, in a specified way at a predetermined</item>
+        <item>Capable of being reconciled.</item>
+        <item>The study of the spatial requirements of humans and animals and the effects of population density on behavior, communication, and social interaction.</item>
+        <item>A primitive wind instrument consisting of a series of hollow pipes of graduated length, the tones being produced by blowing across the upper ends.</item>
+        <item>A river flowing from the Valdai Hills in the W Russian Federation E and then S to the Caspian Sea: the longest river in Europe. 2325 miles (3745 km).</item>
+        <item>The doctrine of gradual transformation of one species into another by descent with modification through many generations.</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
